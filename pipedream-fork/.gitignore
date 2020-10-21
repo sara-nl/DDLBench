@@ -1,0 +1,14 @@
+*__pycache__*
+optimizer/cifar10*
+optimizer/mnist*
+optimizer/resnet*
+optimizer/vgg*
+optimizer/mobilenet*
+profiler/image_classification/models/mnist*
+profiler/image_classification/models/cifar*
+profiler/image_classification/profiles/*
+runtime/image_classification/models/mnist*
+runtime/image_classification/models/cifar*
+runtime/image_classification/models/resnet*
+runtime/image_classification/models/vgg*
+runtime/image_classification/models/mobilenet*
