@@ -30,17 +30,15 @@ More info:
     run/summary/README.md
     README_PIPEDREAM.md
 
-WORK IN PROGRESS
-
 ## Installation
 Download the CIFAR-10 dataset:
 
-    cd DDLBENCH/benchmark/cifar10
+    cd DDLBench/benchmark/cifar10
     wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 Download the PyTorch build for PipeDream:
 
-    cd DDLBENCH
+    cd DDLBench
     wget https://surfdrive.surf.nl/files/index.php/s/42ofDsL5Rty4zL8/download
     unzip torch_pipedream.zip
 
